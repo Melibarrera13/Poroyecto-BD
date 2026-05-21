@@ -1,0 +1,1 @@
+CREATE (:Usuario {nombre:'Ana'})-[:ESTUDIA]->(:Tema {nombre:'Álgebra'});
